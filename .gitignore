@@ -18,3 +18,5 @@ __pycache__/
 
 .cache
 .chroma_db
+
+harness-engineering.md
